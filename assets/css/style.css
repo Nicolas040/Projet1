@@ -1,6 +1,7 @@
 body {
     margin: 0;
     padding: 0;
+    background-color: antiquewhite;
 }
 
 h1 {
@@ -10,10 +11,21 @@ h1 {
     background-color: blueviolet;
     width: 35%;
     border-radius: 1rem;
-    margin: 0 auto;
+    margin: 2rem auto;
     text-align: center;
 }
 
 #intro {
-    background-color: aquamarine;
+    width: 70%;
+    margin: 1.5rem auto;
+}
+
+#navmenu {
+    display: flex;
+    margin-top: 5rem;
+}
+
+#navmenu li {
+    list-style-type: none;
+    margin-left: 5rem;
 }
