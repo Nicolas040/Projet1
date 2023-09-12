@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    background-color: antiquewhite;
+    background-color: rgb(240, 234, 226);
 }
 
 * {
@@ -11,7 +11,7 @@ body {
 h1 {
     line-height: 5rem;
     font-style: italic;
-    color: white;
+    color: blue;
     background-color: blueviolet;
     width: 35%;
     border-radius: 1rem;
@@ -29,10 +29,9 @@ h1 {
     display: flex;
     justify-content: space-around;
     margin-top: 5rem;
-    padding: 0;
+    border: 1px solid rgb(76, 0, 255);
 }
 
 #navmenu li {
     list-style-type: none;
-    margin: 0;
 }
