@@ -1,3 +1,3 @@
 Project Projet1
 
-Prmeier projet en formation CSI avec Git.
+Premier projet en formation CSI avec Git.
